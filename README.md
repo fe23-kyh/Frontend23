@@ -1,29 +1,25 @@
-Frontendutveckling 23 ☀️
+#Frontendutveckling 23 ☀️
 coolclub
 
-HTML & CSS 🐼
+#HTML & CSS 🐼
 
 
-Javascript 1
+#Javascript 1
 
 
-Arbetsmetodik 2
+#Arbetsmetodik 2
 
 
-Javascript 2 
+#Javascript 2 
 
 
-Javascript 3
 
 
-Typescript
-
-
-Viktiga länkar 👀
-Meyer reset
-Color hunt paletts
-Flex guidelines and properties
-SEO optimization
-WhatWG article (med schema) exempel
-Semantic web MDN
-Can I use? - Check browser support
+#Viktiga länkar 👀
+[Meyer reset](https://cdnjs.com/libraries/meyer-reset)
+[Color paletts -Coolors](https://coolors.co/)
+[Flex guidelines and properties](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[SEO optimization](https://bitspeicher.blog/seo-guide-frontend-developer/)
+[HTML-Living standard](https://html.spec.whatwg.org/multipage/sections.html)
+[Semantic web MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+[Can I use? - Check browser support](https://caniuse.com/)
