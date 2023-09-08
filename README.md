@@ -2,7 +2,7 @@
 ![alt text](https://fe22-kyh.github.io/coolclub.png "Cool Club")
 
 ## HTML & CSS 🐼
-* [VS Code](https://code.visualstudio.com/download)
+* [Download VS Code](https://code.visualstudio.com/download)
 * [Film: VS Code ](https://www.youtube.com/watch?v=VqCgcpAypFQ)
 * [Övningar: VS Code](https://docs.google.com/document/d/1V0-ZWjIeRzmC7jxXKfKIP-Ku085IfWqbPHJXRQ8PkBk/edit?usp=sharing)
 * [VS Code: Rekommenderade inställningar](https://github.com/lejonmanen/git-instruktion/blob/main/md/vscode-settings.md#vs-code-rekommenderade-inst%C3%A4llningar)
