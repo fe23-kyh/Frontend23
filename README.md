@@ -29,3 +29,6 @@
 * [HTML-Living standard](https://html.spec.whatwg.org/multipage/sections.html)
 * [Semantic web MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 * [Can I use? - Check browser support](https://caniuse.com/)
+* [Lista Färgkoder](https://www.w3.org/wiki/CSS/Properties/color/keywords)
+
+
