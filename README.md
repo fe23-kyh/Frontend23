@@ -12,6 +12,9 @@
 * [Flex Box Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flex Box Bootcamp](https://gist.github.com/zocom-christoffer-wallenberg/ee40fe8e9df9acbe5a4ecb59a5586cd6)
 * [Animations Bootcamp](https://gist.github.com/zocom-christoffer-wallenberg/6eee6f3df12f705f8299486566cd2105)
+* [Pseudo Code Bootcamp](https://gist.github.com/zocom-christoffer-wallenberg/c0f0b135f2dd0f71994c87a0a66a3fb6)
+* [Pseudo Code Cheetsheet](https://gist.github.com/zocom-christoffer-wallenberg/dbb443c26407cfec308f9578ccf9845a)
+* [Lösningsförslag Pseudo Code](https://gist.github.com/zocom-christoffer-wallenberg/abf24c372b5fef4dba31096174e61b6a)
 
 ## Javascript 1
 
