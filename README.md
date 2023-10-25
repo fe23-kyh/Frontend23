@@ -17,6 +17,7 @@
 * [Lösningsförslag Pseudo Code](https://gist.github.com/zocom-christoffer-wallenberg/abf24c372b5fef4dba31096174e61b6a)
 
 ## Javascript 1
+1. [25e Okt. Intro javascript](https://github.com/fe23-kyh/javascript-intro-del-1)
 
 
 ## Arbetsmetodik 2
