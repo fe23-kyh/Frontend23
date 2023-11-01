@@ -19,6 +19,7 @@
 ## Javascript 1
 1. [25e Okt. Intro javascript](https://github.com/fe23-kyh/javascript-intro-del-1)
 2. [27e Okt. Conditionals n' String](https://github.com/fe23-kyh/strings-conditionals-27e-okt)
+3. [1a Nov. Loops](https://github.com/fe23-kyh/loops-1a-november)
 
 
 ## Arbetsmetodik 2
