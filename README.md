@@ -21,6 +21,7 @@
 2. [27e Okt. Conditionals n' String](https://github.com/fe23-kyh/strings-conditionals-27e-okt)
 3. [1a Nov. Loops](https://github.com/fe23-kyh/loops-1a-november)
 4. [3e Nov. Lists](https://github.com/fe23-kyh/3e-nov-lists)
+5. [8e Nov. Functions](https://github.com/fe23-kyh/8e-nov-functions)
 
 
 ## Arbetsmetodik 2
