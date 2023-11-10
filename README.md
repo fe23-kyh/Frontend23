@@ -22,6 +22,7 @@
 3. [1a Nov. Loops](https://github.com/fe23-kyh/loops-1a-november)
 4. [3e Nov. Lists](https://github.com/fe23-kyh/3e-nov-lists)
 5. [8e Nov. Functions](https://github.com/fe23-kyh/8e-nov-functions)
+6. [10e Nov. DOM API](https://github.com/fe23-kyh/dom-10e-nov)
 
 
 ## Arbetsmetodik 2
