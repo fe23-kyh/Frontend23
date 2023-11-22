@@ -25,6 +25,7 @@
 6. [10e Nov. DOM API](https://github.com/fe23-kyh/dom-10e-nov)
 7. [15e Nov. Object literals](https://github.com/fe23-kyh/object-15e-nov)
 8. [17e Nov. Structure](https://github.com/fe23-kyh/structure-17e-nov)
+9. [22a Nov. Exam](https://github.com/fe23-kyh/22a-nov-exam)
 
 
 ## Arbetsmetodik 2
