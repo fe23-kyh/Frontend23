@@ -30,7 +30,7 @@
 
 
 ## Arbetsmetodik 2
-
+* [Resurser för Kundens Vision](https://github.com/richterror/Kundens-vision/tree/main)
 
 ## Javascript 2 
 
