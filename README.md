@@ -31,6 +31,7 @@
 
 ## Arbetsmetodik 2
 * [Resurser för Kundens Vision](https://github.com/richterror/Kundens-vision/tree/main)
+* [Git tutorial på svenska](https://13pixlar.se/artiklar/guide-till-git-versionshantering-nar-den-ar-som-bast/)
 
 ## Javascript 2 
 
