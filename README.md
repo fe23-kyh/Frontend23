@@ -35,6 +35,7 @@
 
 ## Javascript 2 
 * [React Tutorial](https://react.dev/learn/tutorial-tic-tac-toe#before-we-start-the-tutorial)
+* [React Documentation](https://react.dev/learn)
 
 ## Video material 📹
 
