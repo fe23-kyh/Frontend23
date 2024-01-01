@@ -34,7 +34,7 @@
 * [Git tutorial på svenska](https://13pixlar.se/artiklar/guide-till-git-versionshantering-nar-den-ar-som-bast/)
 
 ## Javascript 2 
-
+* [React Tutorial](https://react.dev/learn/tutorial-tic-tac-toe#before-we-start-the-tutorial)
 
 ## Video material 📹
 
